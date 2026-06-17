@@ -1,0 +1,155 @@
+{
+  "profile": {
+    "name": "Jane Doe",
+    "title": "UI/UX Designer & Frontend Developer",
+    "tagline": "Dijital deneyimleri güzel ve işlevsel kılmak için tasarlıyorum.",
+    "bio": "Merhaba! Ben Jane. Bodrum'un mavi sularından ilham alarak dijital ürünler tasarlayan bir yaratıcı geliştirici ve tasarımcıyım. 8 yıllık deneyimimle kullanıcı odaklı, estetik ve işlevsel arayüzler üretiyorum.",
+    "email": "jane.doe@example.com",
+    "location": "Bodrum, Türkiye",
+    "social": {
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com",
+      "dribbble": "https://dribbble.com",
+      "twitter": "https://twitter.com"
+    },
+    "skills": ["UI/UX Design", "HTML/CSS", "JavaScript", "React", "Figma", "Motion Design", "Branding", "Illustration"]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Mavi Kapı Butik Otel",
+      "category": "Web Tasarım",
+      "tags": ["UI/UX", "Branding", "React"],
+      "description": "Bodrum'da küçük bir butik otel için geliştirilen rezervasyon odaklı, atmosferik bir web sitesi. Pastel tonlar ve akıcı animasyonlar kullanıldı.",
+      "year": "2024",
+      "icon": "fa-umbrella-beach"
+    },
+    {
+      "id": 2,
+      "title": "Ege Lezzet Uygulaması",
+      "category": "Mobil Uygulama",
+      "tags": ["Figma", "Prototype", "iOS"],
+      "description": "Yerel restoran ve tatlar için geliştirilen bir mobil keşif uygulaması. Kullanıcıların Ege mutfağını harita üzerinden keşfetmesini sağlıyor.",
+      "year": "2024",
+      "icon": "fa-utensils"
+    },
+    {
+      "id": 3,
+      "title": "Dalış Merkezi Dashboard",
+      "category": "Web Uygulama",
+      "tags": ["Dashboard", "CSS", "JavaScript"],
+      "description": "Bodrum'daki dalış merkezleri için müşteri, ekipman ve rezervasyon yönetimi yapan admin paneli.",
+      "year": "2023",
+      "icon": "fa-water"
+    },
+    {
+      "id": 4,
+      "title": "Sahil Manzara Portföyü",
+      "category": "Web Tasarım",
+      "tags": ["Photography", "Portfolio", "Animation"],
+      "description": "Bir fotoğraf sanatçısı için Ege'nin renklerinden ilham alan, tam ekran görsel portföy sitesi.",
+      "year": "2023",
+      "icon": "fa-camera"
+    },
+    {
+      "id": 5,
+      "title": "Rüzgar & Dalga E-ticaret",
+      "category": "E-ticaret",
+      "tags": ["E-commerce", "React", "UX"],
+      "description": "Sörf ve dalış ekipmanları satan bir marka için sıfırdan geliştirilen e-ticaret platformu.",
+      "year": "2022",
+      "icon": "fa-sailboat"
+    },
+    {
+      "id": 6,
+      "title": "Mevsim Takvimi",
+      "category": "Web Uygulama",
+      "tags": ["JavaScript", "API", "Design"],
+      "description": "Bodrum'daki sezonluk etkinlikleri, festivalleri ve hava durumunu gösteren interaktif bir takvim uygulaması.",
+      "year": "2022",
+      "icon": "fa-calendar-days"
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "Pastel Renk Paleti ile Tasarım",
+      "date": "2025-05-12",
+      "category": "Tasarım",
+      "readTime": "5 dk",
+      "excerpt": "Pastel renkler neden bu kadar sakinleştirici? Renk psikolojisi ve dijital arayüzlerdeki kullanımı üzerine notlarım.",
+      "icon": "fa-palette",
+      "tags": ["Renk Teorisi", "UI", "Estetik"]
+    },
+    {
+      "id": 2,
+      "title": "Ege'den Çalışmak: Dijital Göçebe Hayatı",
+      "date": "2025-04-28",
+      "category": "Yaşam",
+      "readTime": "7 dk",
+      "excerpt": "Bodrum'dan çalışmanın hem ilham verici hem de zorlu yanları. Laptop başında deniz manzarası: hayal mi, gerçek mi?",
+      "icon": "fa-laptop",
+      "tags": ["Uzaktan Çalışma", "Yaşam", "Bodrum"]
+    },
+    {
+      "id": 3,
+      "title": "CSS Animasyonları ile Hayat Verin",
+      "date": "2025-03-15",
+      "category": "Kod",
+      "readTime": "8 dk",
+      "excerpt": "Sade CSS ile bileşenlerinize ruh katmanın yolları. Keyframe, transition ve transform üçlüsünü birlikte inceliyoruz.",
+      "icon": "fa-code",
+      "tags": ["CSS", "Animation", "Frontend"]
+    },
+    {
+      "id": 4,
+      "title": "Kullanıcı Araştırması Neden Önce Gelir?",
+      "date": "2025-02-20",
+      "category": "UX",
+      "readTime": "6 dk",
+      "excerpt": "Güzel bir arayüz tek başına yeterli değil. İyi bir kullanıcı araştırması olmadan tasarım körü körüne yapılmış bir tahmine dönüşür.",
+      "icon": "fa-magnifying-glass",
+      "tags": ["UX Research", "User Testing", "Design Process"]
+    },
+    {
+      "id": 5,
+      "title": "Figma'dan Koda: Tasarım Sistemleri",
+      "date": "2025-01-08",
+      "category": "Araçlar",
+      "readTime": "10 dk",
+      "excerpt": "Figma'da oluşturduğunuz bir tasarım sistemini geliştiricilerle nasıl uyumlu şekilde kullanırsınız? Token'lardan başlayalım.",
+      "icon": "fa-puzzle-piece",
+      "tags": ["Figma", "Design System", "Tokens"]
+    },
+    {
+      "id": 6,
+      "title": "Minimalist Tasarımın Sırrı",
+      "date": "2024-12-01",
+      "category": "Tasarım",
+      "readTime": "4 dk",
+      "excerpt": "Daha az gerçekten daha fazla mı? Minimalizmin gücü: neyi çıkardığınızı bilmek, neyi koyacağınızı bilmekten zor.",
+      "icon": "fa-minus",
+      "tags": ["Minimalism", "Design", "Philosophy"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Mavisel Digital Studio",
+      "role": "Lead UI/UX Designer",
+      "period": "2022 — Günümüz",
+      "desc": "Turizm ve hospitality sektöründeki markalara yönelik dijital ürünler tasarladım."
+    },
+    {
+      "company": "Okyanus Creative Agency",
+      "role": "Frontend Developer & Designer",
+      "period": "2019 — 2022",
+      "desc": "10+ marka için web sitesi ve mobil uygulama geliştirdim, tasarladım."
+    },
+    {
+      "company": "Kum Saati Startup",
+      "role": "Junior UI Designer",
+      "period": "2017 — 2019",
+      "desc": "SaaS ürününün ilk arayüzünü oluşturdum, kullanıcı testleri yürüttüm."
+    }
+  ]
+}
